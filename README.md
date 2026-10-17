@@ -1,6 +1,6 @@
 # HW1 : Introduction and Learnability
 
-Ce dépôt contient le rendu du premier devoir (HW1)
+Ce dépôt contient le rendu des deux devoir à rendre
 
 
 ## Prérequis et Bibliothèques
@@ -11,4 +11,4 @@ Conformément aux consignes du sujet, aucune bibliothèque de Machine Learning (
 * **Jupyter Notebook** : Pour lire et exécuter le fichier `.ipynb` contenant le code et les analyses.
 
 ## Utilisation
-Il suffit de cloner le dépôt, d'ouvrir le fichier `.ipynb` dans votre environnement Jupyter et d'exécuter l'ensemble des cellules dans l'ordre pour générer les jeux de données, lancer l'ERM et visualiser les résultats.
+Il suffit de cloner le dépôt, d'ouvrir le fichier `.ipynb` dans votre environnement Jupyter et d'exécuter l'ensemble des cellules dans l'ordre pour générer les jeux de données et visualiser les résultats.
