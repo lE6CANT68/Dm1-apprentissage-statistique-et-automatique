@@ -1,4 +1,4 @@
-# HW1 : Introduction and Learnability
+# HomeWork
 
 Ce dépôt contient le rendu des deux devoir à rendre
 
